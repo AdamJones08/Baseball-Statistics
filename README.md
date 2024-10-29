@@ -52,3 +52,8 @@ Then you press install application
 ![image](https://github.com/user-attachments/assets/1a4bc403-8675-41b0-a4e6-adbdcb73a676)
 
 Then hit run application
+
+# Author
+Adam Jones
+Credits:
+Stack overflow and oracle forums
